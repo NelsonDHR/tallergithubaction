@@ -42,3 +42,4 @@ jobs:
           context: .
           push: true
           tags: my-docker-image:latest
+          
